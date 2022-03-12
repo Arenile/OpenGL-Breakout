@@ -1,0 +1,3 @@
+/home/ivris/Projects/OpenGL/Breakout/build/CMakeFiles/Breakout.dir
+/home/ivris/Projects/OpenGL/Breakout/build/CMakeFiles/edit_cache.dir
+/home/ivris/Projects/OpenGL/Breakout/build/CMakeFiles/rebuild_cache.dir
